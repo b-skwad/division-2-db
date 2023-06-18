@@ -155,6 +155,7 @@ class ModelTests(TestCase):
         skill = skills.Skill.objects.create(
             user=user,
             skill_name="skill name",
+            skill_description="skill description",
         )
 
         self.assertEquals(str(skill), skill.skill_name)
@@ -222,3 +223,4 @@ class ModelTests(TestCase):
             skill_mod.skill_slot_modification_type.skill_slot_modification_type_name,
             skill_slot_modification_type.skill_slot_modification_type_name,
         )
+

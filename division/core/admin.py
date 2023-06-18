@@ -5,6 +5,8 @@ from django.utils.translation import gettext_lazy as _
 
 # Register your models here.
 from division.core import models
+from division.core.models import gear
+from division.core.models import skills
 
 
 class UserAdmin(BaseUserAdmin):
@@ -55,3 +57,27 @@ class UserAdmin(BaseUserAdmin):
 
 
 admin.site.register(models.User, UserAdmin)
+admin.site.register(gear.LoadOutSlot, admin.ModelAdmin)
+admin.site.register(gear.GearModificationType, admin.ModelAdmin)
+admin.site.register(gear.GearAttributeType, admin.ModelAdmin)
+admin.site.register(gear.GearTalentType, admin.ModelAdmin)
+admin.site.register(gear.GearModification, admin.ModelAdmin)
+admin.site.register(gear.GearTalent, admin.ModelAdmin)
+
+
+@admin.register(gear.GearAttribute)
+class GearAttributeAdmin(admin.ModelAdmin):
+
+    list_display = ("gear_attribute_name", "max_value", "percent_value", "gear_attribute_type")
+
+    class Meta:
+        ordering = ("gear_attribute_type", "gear_attribute_name")
+
+
+@admin.register(skills.Skill)
+class SkillAdmin(admin.ModelAdmin):
+
+    list_display = ("skill_name", "skill_description", "created_at")
+
+    class Meta:
+        ordering = ("skill_name")

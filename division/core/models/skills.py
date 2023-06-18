@@ -17,6 +17,7 @@ class Skill(BaseModel):
     """
 
     skill_name = models.CharField(max_length=24, unique=True)
+    skill_description = models.CharField(max_length=2048, unique=True)
 
     def __str__(self):
         return self.skill_name
