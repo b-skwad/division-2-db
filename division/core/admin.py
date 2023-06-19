@@ -63,9 +63,9 @@ admin.site.register(gear.GearAttributeType, admin.ModelAdmin)
 admin.site.register(gear.GearTalentType, admin.ModelAdmin)
 admin.site.register(gear.GearModification, admin.ModelAdmin)
 admin.site.register(gear.GearTalent, admin.ModelAdmin)
-admin.site.register(skills.SkillSlot, admin.ModelAdmin)
-admin.site.register(skills.SkillSlotModificationType, admin.ModelAdmin)
-admin.site.register(skills.SkillSlotModification, admin.ModelAdmin)
+admin.site.register(skills.Slot, admin.ModelAdmin)
+admin.site.register(skills.SlotModificationType, admin.ModelAdmin)
+admin.site.register(skills.SlotModification, admin.ModelAdmin)
 
 
 @admin.register(gear.GearAttribute)

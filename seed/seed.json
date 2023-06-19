@@ -180,6 +180,792 @@
         }
     },
     {
+        "model": "division_core.slot",
+        "pk": 1,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Agitator Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 2,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Battery Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 3,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Charge Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 4,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Circuit Board Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 5,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Coil Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 6,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Drive Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 7,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Drones Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 8,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Electronics Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 9,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Feed Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 10,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Firing Mechanism Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 11,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Gyro Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 12,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Hard Coating Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 13,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Housing Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 14,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Hull Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 15,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Launcher Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 16,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Payload slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 17,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Pneumatics Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 18,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Projector Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 19,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Propulsion Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 20,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "System Slot"
+        }
+    },
+    {
+        "model": "division_core.slot",
+        "pk": 21,
+        "fields": {
+            "created_at": "2023-06-19T12:43:56.886Z",
+            "updated_at": "2023-06-19T12:43:56.886Z",
+            "user": 1,
+            "slot_name": "Targeting Slot"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 1,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Active Regeneration (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 2,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": false,
+            "max_value": 1,
+            "slot_modification_type_name": "Ammo (1)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 3,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Armor Repair (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 4,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 600,
+            "slot_modification_type_name": "% Blast Radius (6.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 5,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Blind Effect Duration (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 6,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Burn Damage (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 7,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Burn Duration (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 8,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Burn Strength (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 9,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": false,
+            "max_value": 1,
+            "slot_modification_type_name": "Cluster Mines (1)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 10,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Cone Size (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 11,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Damage (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 12,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 100,
+            "slot_modification_type_name": "% Damage Bonus Per Enemy (1%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 13,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Damage Bonus Per Enemy (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 14,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 600,
+            "slot_modification_type_name": "% Damage Reduction (6.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 15,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Deflect Duration (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 16,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Deflector Damage (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 17,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Duration (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 18,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Duration (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 19,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Effect duration (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 20,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Effect Radius (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 21,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Ensnare Duration (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 22,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1750,
+            "slot_modification_type_name": "% Ensnare Health (17.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 23,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 20000,
+            "slot_modification_type_name": "% Extra Bombs (2)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 24,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Healing (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 25,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Healing (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 26,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Health (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 27,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1750,
+            "slot_modification_type_name": "% Health (17.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 28,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Health (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 29,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Hive Radius (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 30,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Holstered Regeneration (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 31,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": false,
+            "max_value": 1,
+            "slot_modification_type_name": "Max Targets (1)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 32,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": false,
+            "max_value": 1,
+            "slot_modification_type_name": "Mortar Ammo (1)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 33,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Payload Damage (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 34,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Pulse Radius (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 35,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 40000,
+            "slot_modification_type_name": "% Repair Charges (4)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 36,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Revived Armor (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 37,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Scan Range (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 38,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Seeker Radius (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 39,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Shield Health (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 40,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Shock Radius (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 41,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 500,
+            "slot_modification_type_name": "% Skill Haste (5.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 42,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 600,
+            "slot_modification_type_name": "% Skill Haste (6.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 43,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 750,
+            "slot_modification_type_name": "% Skill Haste (7.5%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 44,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": false,
+            "max_value": 1,
+            "slot_modification_type_name": "Sniper Ammo (1)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 45,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Speed (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 46,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 40000,
+            "slot_modification_type_name": "% Stim Charges (4)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 47,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 1000,
+            "slot_modification_type_name": "% Stim Efficiency (10.0%)"
+        }
+    },
+    {
+        "model": "division_core.slotmodificationtype",
+        "pk": 48,
+        "fields": {
+            "created_at": "2023-06-19T14:57:39.220Z",
+            "updated_at": "2023-06-19T14:57:39.220Z",
+            "user": 1,
+            "percent_value": true,
+            "max_value": 40000,
+            "slot_modification_type_name": "% Stinger Charges (4)"
+        }
+    },
+    {
         "model": "division_core.skill",
         "pk": 1,
         "fields": {
@@ -187,7 +973,11 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Chem Launcher",
-            "skill_description": "The Chem Launcher shoots canisters of various chemicals which disperse upon impact to produce a variety of effects. The Chem Launcher has four variants: Firestarter, Riot Foam, Oxidizer, and Reinforcer.  "
+            "skill_description": "The Chem Launcher shoots canisters of various chemicals which disperse upon impact to produce a variety of effects. The Chem Launcher has four variants: Firestarter, Riot Foam, Oxidizer, and Reinforcer.  ",
+            "slot": [
+                1,
+                17
+            ]
         }
     },
     {
@@ -198,7 +988,11 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Decoy",
-            "skill_description": "As the name says, it is 1 Decoy with the function of Attracting the attention of the Enemy (NPC) so that he shoots the Decoy, thus being Exposed for the Player to shoot the enemy NPC. Thus facilitating your mission. however, this ability does not last long. and it's just for that. (attracting the attention of enemies)."
+            "skill_description": "As the name says, it is 1 Decoy with the function of Attracting the attention of the Enemy (NPC) so that he shoots the Decoy, thus being Exposed for the Player to shoot the enemy NPC. Thus facilitating your mission. however, this ability does not last long. and it's just for that. (attracting the attention of enemies).",
+            "slot": [
+                13,
+                18
+            ]
         }
     },
     {
@@ -209,7 +1003,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Drone",
-            "skill_description": "The Assault Drone is an unmanned drone that affects specific targets with a variety of effects. Once drones are deployed, they hover in the air above the player either waiting for additional input for location (Bombardier and Tactician), or automatically performing its job (Striker, Defender, and Fixer). "
+            "skill_description": "The Assault Drone is an unmanned drone that affects specific targets with a variety of effects. Once drones are deployed, they hover in the air above the player either waiting for additional input for location (Bombardier and Tactician), or automatically performing its job (Striker, Defender, and Fixer). ",
+            "slot": [
+                2,
+                9,
+                14
+            ]
         }
     },
     {
@@ -220,7 +1019,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Firefly",
-            "skill_description": "The Firefly drone is a small flying drone, similar to drones but functioning as payload-delivery system rather than a proxy under the control of an agent. "
+            "skill_description": "The Firefly drone is a small flying drone, similar to drones but functioning as payload-delivery system rather than a proxy under the control of an agent. ",
+            "slot": [
+                16,
+                19,
+                21
+            ]
         }
     },
     {
@@ -231,7 +1035,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Hive",
-            "skill_description": "Hives are pod-shaped devices containing special micro-drones that affect those who come within range of the hive. Hives are deployed much like turrets, in that agents throw them to a location; once on the ground, their micro-drones will target any valid unit inside their radius (this can be an ally or enemy, depending on the Hive variant used). "
+            "skill_description": "Hives are pod-shaped devices containing special micro-drones that affect those who come within range of the hive. Hives are deployed much like turrets, in that agents throw them to a location; once on the ground, their micro-drones will target any valid unit inside their radius (this can be an ally or enemy, depending on the Hive variant used). ",
+            "slot": [
+                7,
+                15,
+                20
+            ]
         }
     },
     {
@@ -242,7 +1051,11 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Pulse",
-            "skill_description": "The Pulse skill acts like a short-range radar type device. It can either mark enemies, or apply status effects to them. There are currently 5 pulse variants, four are in-game while one (the Achilles) is coming up as a reward for taking down Faye Lau. "
+            "skill_description": "The Pulse skill acts like a short-range radar type device. It can either mark enemies, or apply status effects to them. There are currently 5 pulse variants, four are in-game while one (the Achilles) is coming up as a reward for taking down Faye Lau. ",
+            "slot": [
+                5,
+                13
+            ]
         }
     },
     {
@@ -253,7 +1066,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Seeker Mine",
-            "skill_description": "When used, an agent activates a small rounded mine and throws it (or drops it at their feet); the mine will immediately lock onto the closest enemy target in range and roll along the ground in their direction. Once in proximity, the mine will immediately detonate in an explosion for damage or another effect. "
+            "skill_description": "When used, an agent activates a small rounded mine and throws it (or drops it at their feet); the mine will immediately lock onto the closest enemy target in range and roll along the ground in their direction. Once in proximity, the mine will immediately detonate in an explosion for damage or another effect. ",
+            "slot": [
+                6,
+                16,
+                21
+            ]
         }
     },
     {
@@ -264,7 +1082,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Ballistic Shield",
-            "skill_description": "The Ballistic Shield is just that, a shield. It prevents an enemy's bullets from hitting the agent from a certain direction. The shield will take a certain amount of damage before it breaks, and in order for it to be deployed, the agent must be out of cover. The mods for this skill mainly affect the mobility of the agent while the shield is in use. "
+            "skill_description": "The Ballistic Shield is just that, a shield. It prevents an enemy's bullets from hitting the agent from a certain direction. The shield will take a certain amount of damage before it breaks, and in order for it to be deployed, the agent must be out of cover. The mods for this skill mainly affect the mobility of the agent while the shield is in use. ",
+            "slot": [
+                4,
+                11,
+                12
+            ]
         }
     },
     {
@@ -275,7 +1098,11 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Sticky Bomb",
-            "skill_description": "The Sticky bomb makes a return from the first game. It is a remote-activated explosive that sticks to whatever surface it lands on, including enemies."
+            "skill_description": "The Sticky bomb makes a return from the first game. It is a remote-activated explosive that sticks to whatever surface it lands on, including enemies.",
+            "slot": [
+                15,
+                16
+            ]
         }
     },
     {
@@ -286,7 +1113,11 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Trap",
-            "skill_description": "A thrown device that explodes mid-air to release several mines in a preset pattern along the ground, which activate whenever a target enters its area of effect."
+            "skill_description": "A thrown device that explodes mid-air to release several mines in a preset pattern along the ground, which activate whenever a target enters its area of effect.",
+            "slot": [
+                3,
+                8
+            ]
         }
     },
     {
@@ -297,7 +1128,12 @@
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
             "skill_name": "Turret",
-            "skill_description": "The Turret is a deployable device that will fire at enemies with varying payloads. It can also be told to target one specific enemy over all others, or to fire at any enemy of its choice. "
+            "skill_description": "The Turret is a deployable device that will fire at enemies with varying payloads. It can also be told to target one specific enemy over all others, or to fire at any enemy of its choice. ",
+            "slot": [
+                10,
+                13,
+                21
+            ]
         }
     },
     {
@@ -367,7 +1203,7 @@
             "created_at": "2023-06-18T18:54:39.239Z",
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
-            "skill_variant_name": "Striker",
+            "skill_variant_name": "Striker Drone",
             "skill_variant_description": "As suggested by the name, this is an offensive version of the Drone. Built for combat, the Striker possesses a turret that inflicts continuous damage upon its target. This drone can receive remote orders from its controller to attack specific targets, or it will automatically target nearby enemies. The Striker Drone's indicator lights are the iconic Division orange, and a miniature turret is attached at the bottom.",
             "skill": 3
         }
@@ -571,7 +1407,7 @@
             "created_at": "2023-06-18T18:54:39.239Z",
             "updated_at": "2023-06-18T18:54:39.239Z",
             "user": 1,
-            "skill_variant_name": "Explosive",
+            "skill_variant_name": "Explosive Mine",
             "skill_variant_description": "This classic seeker mine chases the target that it will either track automatically but can also be given a specific target at the agent's choosing, then detonates with a staggering explosion that causes enemies to bleed. However, it can be avoided as there is a slight arming time before it explodes. ",
             "skill": 7
         }
@@ -781,11 +1617,911 @@
         }
     },
     {
+        "model": "division_core.slotmodification",
+        "pk": 1,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 1,
+            "slot_modification_type": 8,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 2,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 1,
+            "slot_modification_type": 11,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 3,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 1,
+            "slot_modification_type": 21,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 4,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 1,
+            "slot_modification_type": 22,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 5,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 1,
+            "slot_modification_type": 25,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 6,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 17,
+            "slot_modification_type": 2,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 7,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 17,
+            "slot_modification_type": 17,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 8,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 17,
+            "slot_modification_type": 20,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 9,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 17,
+            "slot_modification_type": 43,
+            "skill": 1
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 10,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 28,
+            "skill": 2
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 11,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 18,
+            "slot_modification_type": 18,
+            "skill": 2
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 12,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 2,
+            "slot_modification_type": 15,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 13,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 2,
+            "slot_modification_type": 18,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 14,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 9,
+            "slot_modification_type": 3,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 15,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 9,
+            "slot_modification_type": 11,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 16,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 9,
+            "slot_modification_type": 14,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 17,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 14,
+            "slot_modification_type": 23,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 18,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 14,
+            "slot_modification_type": 26,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 19,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 14,
+            "slot_modification_type": 37,
+            "skill": 3
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 20,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 5,
+            "skill": 4
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 21,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 33,
+            "skill": 4
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 22,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 19,
+            "slot_modification_type": 43,
+            "skill": 4
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 23,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 19,
+            "slot_modification_type": 45,
+            "skill": 4
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 24,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 21,
+            "slot_modification_type": 31,
+            "skill": 4
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 25,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 7,
+            "slot_modification_type": 11,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 26,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 7,
+            "slot_modification_type": 24,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 27,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 7,
+            "slot_modification_type": 36,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 28,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 7,
+            "slot_modification_type": 47,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 29,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 29,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 30,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 35,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 31,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 46,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 32,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 48,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 33,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 20,
+            "slot_modification_type": 17,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 34,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 20,
+            "slot_modification_type": 26,
+            "skill": 5
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 35,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 5,
+            "slot_modification_type": 10,
+            "skill": 6
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 36,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 5,
+            "slot_modification_type": 34,
+            "skill": 6
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 37,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 19,
+            "skill": 6
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 38,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 27,
+            "skill": 6
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 39,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 42,
+            "skill": 6
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 40,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 6,
+            "slot_modification_type": 11,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 41,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 6,
+            "slot_modification_type": 38,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 42,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 6,
+            "slot_modification_type": 42,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 43,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 11,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 44,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 25,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 45,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 42,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 46,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 21,
+            "slot_modification_type": 9,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 47,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 21,
+            "slot_modification_type": 28,
+            "skill": 7
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 48,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 4,
+            "slot_modification_type": 12,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 49,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 4,
+            "slot_modification_type": 16,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 50,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 4,
+            "slot_modification_type": 30,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 51,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 4,
+            "slot_modification_type": 39,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 52,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 11,
+            "slot_modification_type": 13,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 53,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 11,
+            "slot_modification_type": 16,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 54,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 11,
+            "slot_modification_type": 30,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 55,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 12,
+            "slot_modification_type": 1,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 56,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 12,
+            "slot_modification_type": 16,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 57,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 12,
+            "slot_modification_type": 39,
+            "skill": 8
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 58,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 4,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 59,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 18,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 60,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 15,
+            "slot_modification_type": 41,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 61,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 4,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 62,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 7,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 63,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 17,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 64,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 16,
+            "slot_modification_type": 33,
+            "skill": 9
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 65,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 3,
+            "slot_modification_type": 17,
+            "skill": 10
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 66,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 8,
+            "slot_modification_type": 18,
+            "skill": 10
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 67,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 8,
+            "slot_modification_type": 40,
+            "skill": 10
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 68,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 10,
+            "slot_modification_type": 6,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 69,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 10,
+            "slot_modification_type": 11,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 70,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 18,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 71,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 26,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 72,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 32,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 73,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 13,
+            "slot_modification_type": 44,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 74,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 21,
+            "slot_modification_type": 18,
+            "skill": 11
+        }
+    },
+    {
+        "model": "division_core.slotmodification",
+        "pk": 75,
+        "fields": {
+            "created_at": "2023-06-19T15:45:35.223Z",
+            "updated_at": "2023-06-19T15:45:35.223Z",
+            "user": 1,
+            "slot": 21,
+            "slot_modification_type": 43,
+            "skill": 11
+        }
+    },
+    {
         "model": "division_core.user",
         "pk": 1,
         "fields": {
             "password": "pbkdf2_sha256$600000$OIHKgngFBj0g64S40NLBw1$KVyM0v5oL3vzC8XYcEyJ6G2hEe1lB60MWh5C+MzhDoc=",
-            "last_login": "2023-06-18T16:48:33.582Z",
+            "last_login": "2023-06-19T15:28:31.340Z",
             "is_superuser": true,
             "email": "admin@psm.dev",
             "first_name": "System",
