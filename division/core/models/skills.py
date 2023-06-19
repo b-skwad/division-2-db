@@ -45,6 +45,28 @@ class SkillSlot(BaseModel):
         return self.skill_slot_name
 
 
+class SkillVariant(BaseModel):
+    """
+    Skill object variant.
+
+    Which type of variant by skill
+    - Defender Drone
+    - Artillery Turret
+    - Reviver Hive
+    """
+
+    skill_variant_name = models.CharField(max_length=24, unique=True)
+    skill_variant_description = models.CharField(max_length=2048, unique=True)
+    skill = models.ForeignKey(
+        Skill,
+        related_name="variant_skill",
+        on_delete=models.PROTECT,
+    )
+
+    def __str__(self):
+        return self.skill_variant_name
+
+
 class SkillSlotModificationType(BaseModel):
     """
     Skill object slot.

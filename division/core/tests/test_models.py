@@ -224,3 +224,24 @@ class ModelTests(TestCase):
             skill_slot_modification_type.skill_slot_modification_type_name,
         )
 
+    def test_create_skill_variant(self):
+        """Test creating a skill variant."""
+        user = get_user_model().objects.create_user(
+            "test@example.com",
+            "test123",
+        )
+        skill = skills.Skill.objects.create(
+            user=user,
+            skill_name="skill name",
+        )
+
+        skill_variant = skills.SkillVariant.objects.create(
+            user=user,
+            skill=skill,
+            skill_variant_name="skill variant name",
+            skill_variant_description="skill variant description",
+        )
+        self.assertEquals(
+            str(skill_variant),
+            skill_variant.skill_variant_name,
+        )
