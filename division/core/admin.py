@@ -63,6 +63,9 @@ admin.site.register(gear.GearAttributeType, admin.ModelAdmin)
 admin.site.register(gear.GearTalentType, admin.ModelAdmin)
 admin.site.register(gear.GearModification, admin.ModelAdmin)
 admin.site.register(gear.GearTalent, admin.ModelAdmin)
+admin.site.register(skills.SkillSlot, admin.ModelAdmin)
+admin.site.register(skills.SkillSlotModificationType, admin.ModelAdmin)
+admin.site.register(skills.SkillSlotModification, admin.ModelAdmin)
 
 
 @admin.register(gear.GearAttribute)
@@ -81,3 +84,12 @@ class SkillAdmin(admin.ModelAdmin):
 
     class Meta:
         ordering = ("skill_name")
+
+
+@admin.register(skills.SkillVariant)
+class SkillVariantAdmin(admin.ModelAdmin):
+
+    list_display = ("skill_variant_name", "skill_variant_description", "created_at")
+
+    class Meta:
+        ordering = ("skill_variant_name")
