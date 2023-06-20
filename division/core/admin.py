@@ -64,11 +64,12 @@ admin.site.register(gear.GearTalentType, admin.ModelAdmin)
 admin.site.register(gear.GearModification, admin.ModelAdmin)
 admin.site.register(skills.Slot, admin.ModelAdmin)
 admin.site.register(skills.SlotModificationType, admin.ModelAdmin)
-# admin.site.register(skills.SlotModification, admin.ModelAdmin)
 
 
 @admin.register(gear.GearAttribute)
 class GearAttributeAdmin(admin.ModelAdmin):
+    """Define the admin pages for GearAttribute."""
+
     list_display = ("gear_attribute_name", "max_value", "percent_value", "gear_attribute_type")
 
     class Meta:
@@ -77,6 +78,8 @@ class GearAttributeAdmin(admin.ModelAdmin):
 
 @admin.register(skills.Skill)
 class SkillAdmin(admin.ModelAdmin):
+    """Define the admin pages for SkillA."""
+
     list_display = ("skill_name", "skill_description", "created_at")
 
     class Meta:
@@ -85,6 +88,8 @@ class SkillAdmin(admin.ModelAdmin):
 
 @admin.register(skills.SkillVariant)
 class SkillVariantAdmin(admin.ModelAdmin):
+    """Define the admin pages for SkillVariant."""
+
     list_display = ("skill_variant_name", "skill_variant_description", "created_at")
 
     class Meta:
@@ -93,11 +98,15 @@ class SkillVariantAdmin(admin.ModelAdmin):
 
 @admin.register(gear.GearTalent)
 class GearTalentAdmin(admin.ModelAdmin):
+    """Define the admin pages for SkillVariant."""
+
     list_display = ("talent_name", "talent_description")
 
 
 @admin.register(skills.SlotModification)
 class SlotModificationAdmin(admin.ModelAdmin):
+    """Define the admin pages for SlotModification."""
+
     list_display = ("get_skill", "get_slot", "get_slot_modification_type")
 
     def get_skill(self, obj):
