@@ -1,6 +1,6 @@
 /* Text colors */
 .text-primary {
-    color: #28a745;
+    color: #96760b;
 }
 
 .text-secondary {
@@ -15,7 +15,7 @@
     color: #fff;
     background-color: #28a745;
     border: none;
-    border-radius: 5px;
+    border-radius: glog5px;
 }
 
 .btn:hover {
